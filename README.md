@@ -2,6 +2,7 @@
 practising Java, Git, GitHub and collaboration.
 ## Screenshots
 ![Running app](doc/01-running-app.png)
+
 ## How to run the application
 
 1. Make sure Java 21 is installed.
