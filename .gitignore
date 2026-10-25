@@ -32,3 +32,12 @@ build/
 
 ### VS Code ###
 .vscode/
+# Editor settings
+.vscode/
+
+# Vaadin / Node generated files
+node_modules/
+src/main/frontend/generated/
+src/main/bundles/
+frontend/generated/
+vite.generated.ts
